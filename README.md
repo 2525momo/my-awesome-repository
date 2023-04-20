@@ -1,1 +1,1 @@
-# my-awesome-repository
+# my-awesome-script
